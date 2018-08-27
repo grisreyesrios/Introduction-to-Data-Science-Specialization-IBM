@@ -1,2 +1,0 @@
-
-## Excercises using Jupyter Notebooks
