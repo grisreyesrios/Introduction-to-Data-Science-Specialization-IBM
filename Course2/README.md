@@ -1,3 +1,15 @@
+## Course 2: Open source tools for Data Science
+
+This directory contains the material that corresponds to the second course of the specialization. It contains the directories:
+
+**1. Examples_Jupyter Notebooks**
+
+Example and source code to use Jupyter notebooks to represent categorical data with rectangular bars and plot different trigonometric functions.
+
+**2. Examples_RSTUDIO**
+
+Example and source code with R to generate an interactive map.
+
 ## Installing Jupyter Notebooks and RStudio
 
 ### 1. [Cognitive Class Labs](https://labs.cognitiveclass.ai/login)
