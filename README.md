@@ -21,7 +21,7 @@ The specialization is divided into 4 courses which learning objectives are:
 
 - Introduction to Jupyter Notebooks.
 - Introduction to Apache Zeppelin Notebooks.
-- Learn about an enterprise-ready data science platform by IBM, tools that Data Scientists use in industry.
+- Learn about an enterprise-ready data science platform by IBM ([IBM Watson](https://eu-gb.dataplatform.ibm.com/)), tools that Data Scientists use in industry.
 
 ### -[ ] Course 3: Data Science Methodology
 - Approach a problem with:
